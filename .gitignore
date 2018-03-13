@@ -1,0 +1,16 @@
+*.o
+*.so
+UE4Editor-TestGame*.pdb
+*.obj
+*.bin
+*.modules
+*.target
+*.log
+*.png
+*.json
+*TestGame*.dll
+*TestGame*.ini
+*.VC*
+*.user
+Backup/*
+Intermediate/*
