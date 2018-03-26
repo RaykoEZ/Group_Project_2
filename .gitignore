@@ -14,3 +14,4 @@ UE4Editor-TestGame*.pdb
 *.user
 Backup/*
 Intermediate/*
+Saved/*
